@@ -36,6 +36,8 @@
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/c86be1c9-bf58-46ea-98d6-24bcc37a7c25" />
 
 ### 6. 障碍物识别（硬件端）
+- 识别障碍物类型
+- 计算障碍物速度
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/26a03851-7034-4205-843e-a5bb8ed5d2e0" />
 
 ---
